@@ -1,7 +1,7 @@
 
 # Insurance Premium Prediction
 
-The goal of this project is to give people an estimate of how much they need pay for insurance based on their health condition. After that, customers can work with any health insurance carrier and its plans and perks. 
+The goal of this project is to give an estimation on how much they need to pay for their insurance, based on their health condition. After that, customers can work with any health insurance carrier and its plans and perks. 
 
 
 ## Acknowledgements
